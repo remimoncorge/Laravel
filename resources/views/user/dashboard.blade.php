@@ -2,9 +2,6 @@
 
 @section('content')
     <div class="dashboard-articles">
-        <div class="pull-left">
-            <marquee behavior="" direction="">CRUD ARTICLES USER PAGE</marquee>
-        </div>
         <br>
         <div class="pull-right text-right mb-3">
             <a href="/create" class = "btn btn-sm btn-success">Add New Article</a>
